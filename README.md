@@ -1,0 +1,1 @@
+This is a simples Express/EJS/MySQL application where the goal is to have questions made by someone and have it awnsered by another person. Much like the outdated ask.fm where anonymous people asked and answers questions
